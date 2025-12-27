@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following reference."
+title: "Moments of the Warning Vaccination Level in a Stochastic SVIR Model"
+version: 1.0.0
+date-released: 2025-01-01
+authors:
+  - family-names: Gamboa
+    given-names: Maria
+  - family-names: López-García
+    given-names: Martín
+  - family-names: Lopez-Herrero
+    given-names: Maria Jesus
+doi: https://doi.org/10.1007/978-3-030-91825-5_12
+license: MIT
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Gamboa
+      given-names: Maria
+    - family-names: López-García
+      given-names: Maria
+    - family-names: Lopez-Herrero
+      given-names: Maria Jesus
+  title: "A stochastic SVIR model with imperfect vaccine and external source of infection"
+  booktitle: "European Workshop on Performance Engineering"
+  year: 2021
+  pages: "197–209"
+  publisher: "Springer International Publishing"
+  doi: 10.1007/978-3-030-91825-5_12
+
