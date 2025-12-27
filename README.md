@@ -35,7 +35,7 @@ The implementation closely follows the theoretical development in the cited pape
 The model considers a stochastic SVIR epidemic process with:
 - Imperfect vaccination,
 - External source of infection,
-- A warning vaccination level defined by a threshold on the number of vaccinated individuals.
+
 
 The algorithm computes recursively:
 - The first moment (expected value),
