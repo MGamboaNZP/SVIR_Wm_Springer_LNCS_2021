@@ -8,6 +8,8 @@ European Workshop on Performance Engineering, 197–209.
 https://doi.org/10.1007/978-3-030-91825-5_12
 
 ---
+**Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18070847
+
 
 ## Repository contents
 
