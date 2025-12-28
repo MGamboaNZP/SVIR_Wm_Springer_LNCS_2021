@@ -14,33 +14,12 @@ https://doi.org/10.1007/978-3-030-91825-5_12
 The repository includes the following MATLAB code:
 
 - `momentoW_M.m`  
-  Computes the first and second moments of the warning vaccination level using recursive equations derived from the stochastic SVIR model.
-
+  Computes moments of the random variable Wm in a stochastic SVIR model.
 The implementation closely follows the theoretical development in the cited paper and is intended for research and reproducibility purposes.
 
 ---
 
-## Model description
 
-The model considers a stochastic SVIR epidemic process with:
-- Imperfect vaccination,
-- External source of infection,
-
-
-The algorithm computes recursively:
-- The first moment (expected value),
-- The second moment,
-
-of the warning vaccination level, conditional on the initial state of the system.
-
----
-
-## Requirements
-
-- MATLAB (R2018a or later recommended)
-- No additional toolboxes are required
-
----
 
 ## Usage example
 
