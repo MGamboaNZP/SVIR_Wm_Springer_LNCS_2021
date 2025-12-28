@@ -1,16 +1,6 @@
 # Moments of Wm in a Stochastic SVIR Model
 
-This repository contains MATLAB implementations for the computation of the first and second moments of the random variable Wm in a stochastic SVIR epidemic model with imperfect vaccine and an external source of infection.
-
-The code accompanies and supports the results presented in the following reference:
-
-**Gamboa, M., López-García, M., & Lopez-Herrero, M. J. (2021).**  
-*A stochastic SVIR model with imperfect vaccine and external source of infection.*  
-In *European Workshop on Performance Engineering*, pp. 197–209.  
-Springer International Publishing.  
-https://doi.org/10.1007/978-3-030-91825-5_12
-
-If you use this code in your research, please cite the following publication:
+This repository contains R scripts associated with the publication:
 
 Gamboa, M., López-García, M., & Lopez-Herrero, M. J. (2021).
 A stochastic SVIR model with imperfect vaccine and external source of infection.
